@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/989302141365780316/def992ab1327477699b82ecd9331eba9/artifacts
+end_time: 1737294632394
+entry_point_name: ''
+experiment_id: '989302141365780316'
+lifecycle_stage: active
+run_id: def992ab1327477699b82ecd9331eba9
+run_name: wistful-dolphin-727
+run_uuid: def992ab1327477699b82ecd9331eba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737293832083
+status: 3
+tags: []
+user_id: Atharv

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/989302141365780316/f0dddd5460274ff1a1c2824e871ecf9c/artifacts
+end_time: 1737294632611
+entry_point_name: ''
+experiment_id: '989302141365780316'
+lifecycle_stage: active
+run_id: f0dddd5460274ff1a1c2824e871ecf9c
+run_name: nebulous-flea-202
+run_uuid: f0dddd5460274ff1a1c2824e871ecf9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737294632469
+status: 4
+tags: []
+user_id: Atharv

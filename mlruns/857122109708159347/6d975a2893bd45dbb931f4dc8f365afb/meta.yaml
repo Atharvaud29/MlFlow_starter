@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/857122109708159347/6d975a2893bd45dbb931f4dc8f365afb/artifacts
+end_time: 1737292451856
+entry_point_name: ''
+experiment_id: '857122109708159347'
+lifecycle_stage: active
+run_id: 6d975a2893bd45dbb931f4dc8f365afb
+run_name: blushing-bee-727
+run_uuid: 6d975a2893bd45dbb931f4dc8f365afb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737292451745
+status: 3
+tags: []
+user_id: Atharv

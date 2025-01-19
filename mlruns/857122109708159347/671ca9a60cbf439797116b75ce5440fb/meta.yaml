@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/857122109708159347/671ca9a60cbf439797116b75ce5440fb/artifacts
+end_time: 1737292505174
+entry_point_name: ''
+experiment_id: '857122109708159347'
+lifecycle_stage: active
+run_id: 671ca9a60cbf439797116b75ce5440fb
+run_name: carefree-fox-423
+run_uuid: 671ca9a60cbf439797116b75ce5440fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737292505077
+status: 3
+tags: []
+user_id: Atharv

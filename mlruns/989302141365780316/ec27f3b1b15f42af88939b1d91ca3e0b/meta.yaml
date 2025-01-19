@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/989302141365780316/ec27f3b1b15f42af88939b1d91ca3e0b/artifacts
+end_time: 1737293086094
+entry_point_name: ''
+experiment_id: '989302141365780316'
+lifecycle_stage: active
+run_id: ec27f3b1b15f42af88939b1d91ca3e0b
+run_name: calm-wolf-411
+run_uuid: ec27f3b1b15f42af88939b1d91ca3e0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737293080900
+status: 3
+tags: []
+user_id: Atharv

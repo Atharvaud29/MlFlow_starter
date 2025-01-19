@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/989302141365780316/8254297ff37b47e9927e3b03d25f8d53/artifacts
+end_time: 1737294678176
+entry_point_name: ''
+experiment_id: '989302141365780316'
+lifecycle_stage: active
+run_id: 8254297ff37b47e9927e3b03d25f8d53
+run_name: monumental-vole-180
+run_uuid: 8254297ff37b47e9927e3b03d25f8d53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737294672996
+status: 3
+tags: []
+user_id: Atharv

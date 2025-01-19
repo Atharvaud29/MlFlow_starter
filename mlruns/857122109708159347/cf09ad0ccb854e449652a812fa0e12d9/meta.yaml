@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/857122109708159347/cf09ad0ccb854e449652a812fa0e12d9/artifacts
+end_time: 1737292602599
+entry_point_name: ''
+experiment_id: '857122109708159347'
+lifecycle_stage: active
+run_id: cf09ad0ccb854e449652a812fa0e12d9
+run_name: crawling-tern-229
+run_uuid: cf09ad0ccb854e449652a812fa0e12d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737292602493
+status: 3
+tags: []
+user_id: Atharv

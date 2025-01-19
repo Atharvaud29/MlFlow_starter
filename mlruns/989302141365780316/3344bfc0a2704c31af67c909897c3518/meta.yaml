@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/989302141365780316/3344bfc0a2704c31af67c909897c3518/artifacts
+end_time: 1737293250114
+entry_point_name: ''
+experiment_id: '989302141365780316'
+lifecycle_stage: active
+run_id: 3344bfc0a2704c31af67c909897c3518
+run_name: orderly-cub-105
+run_uuid: 3344bfc0a2704c31af67c909897c3518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737293244889
+status: 3
+tags: []
+user_id: Atharv
